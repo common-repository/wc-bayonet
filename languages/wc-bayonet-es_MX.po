@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: admin/partials/wc-bayonet-admin-settings.php
+msgid "Bayonet Settings"
+msgstr "Ajustes para Bayonet"
+
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+msgid "Enable Bayonet Sandbox Mode"
+msgstr "Habilitar modo de sandbox"
+
+msgid "Sandbox API Key"
+msgstr "Sandbox API Key"
+
+msgid "Live API Key"
+msgstr "Live API Key"
+
+msgid "Transaction stopped because of suspected fraud."
+msgstr "Transaccion detenida por sospecha de fraude."
+
+msgid "Send Existing Orders Feedback"
+msgstr "Enviar Feedback de pedidos existentes"
+
+msgid "Send Feedback"
+msgstr "Enviar Feedback"
+
+#: admin/includes/wc-bayonet-admin.php
+msgid "Bayonet Risk Level"
+msgstr "Nivel de Riesgo Bayonet"
+
+msgid "Please add your API Keys to begin using Bayonet."
+msgstr "Por favor agrega tus API Keys para comenzar a usar Bayonet."
+
+msgid "Before you start, you have to send Feedback of your existing orders to Bayonet."
+msgstr "Antes de comenzar a utilizar Bayonet, debes enviar Feedback de tus pedidos existentes a Bayonet."
+
+msgid "This action will send a CSV file to the Bayonet team to save the transaction history of your eCommerce. This is the first step of a two-step process so keep in mind that we will contact you soon."
+msgstr "Esta acción enviará un archivo CSV al equipo de Bayonet con el historial de los pedidos de tu tienda. Este es el paso uno de un proceso de dos pasos así que te contactaremos pronto para completarlo."
+
+msgid "Fraud prevention message"
+msgstr "Mensaje de prevención de fraude"
+
+msgid "There are %d orders that have not been sent."
+msgstr "Hay %d pedidos pendientes por enviar."
+
+msgid "Processed orders:"
+msgstr "Pedidos procesados"
+
+msgid "This process can take a few minutes. Please wait for the page to be refreshed."
+msgstr "Este proceso puede tardar algunos minutos. Por favor espera, la página se actualizará automáticamente cuando termine."

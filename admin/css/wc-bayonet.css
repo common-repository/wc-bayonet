@@ -1,0 +1,29 @@
+/*
+ * Stylesheets for WC Bayonet WP Admin Panel
+ *
+ * @since      1.0.0
+ * @author     Pequeño Cuervo
+*/
+
+
+
+
+//Status Colors
+span.bynt-yellow { color: #FFBB00 !important; }
+span.bynt-green { color: #77D22A !important; }
+span.bynt-yellow{ color: #FFBB00 !important; }
+
+//Branding
+.bynt-brand{
+	width: 100%;
+	background-color: #1c75bc;
+}
+
+.bynt-brand img{
+	width: 200px; height: auto;
+	padding: 10px;
+}
+.bynt-brand{
+	width: 100%;
+	background-color: #1c75bc;
+}

@@ -1,0 +1,32 @@
+#: admin/partials/wc-bayonet-admin-settings.php:10
+
+msgid "Bayonet Settings"
+msgstr ""
+
+msgid "Bayonet Settings"
+msgstr "Ajustes generales para Bayonet"
+
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+msgid "Enable Bayonet Sandbox Mode"
+msgstr "Habilitar modo de pruebas (sandbox)"
+
+msgid "Sandbox API Key"
+msgstr "Sandbox API Key"
+
+msgid "Live API Key"
+msgstr "Live API Key"
+
+msgid "Fraud prevention message"
+msgstr "Mensaje default de prevensión de fraude"
+
+msgid "Send Existing Orders Feedback"
+msgstr "Enviar Feedback de pedidos existentes"
+
+msgid "This action will send a CSV file to the Bayonet team to save the transaction history of your eCommerce. This is the first step of a two-step process so keep in mind that we will contact you soon."
+msgstr "This action will send a CSV file to the Bayonet team to save the transaction history of your eCommerce. This is the first step of a two-step process so keep in mind that we will contact you soon."
+
+#: admin/includes/wc-bayonet-admin.php
+msgid "Send Existing Orders Feedback"
+msgstr "Enviar Feedback de pedidos existentes"
